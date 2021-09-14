@@ -3,7 +3,7 @@ Cleaning robot is a compact robotics
 system which provides floor cleaning service in room and big offices reducing human labor. Our
 robot is designed to clean floors with vacuum cleaner. The purpose of this project is to design
 and implement a vacuum robot autonomous and manual via mobile application.
-Components:
+Components: <br>
 The following parts and tools are required for building this project:
 Parts:
 ● 2x 200rpm Geared motors
